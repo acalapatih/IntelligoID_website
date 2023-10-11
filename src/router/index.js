@@ -161,12 +161,12 @@ const routes = [
     meta: dataMeta,
     component: DetailEvent,
   },
-  // {
-  //   path: "/blog",
-  //   name: "BlogComp",
-  //   meta: dataMeta,
-  //   component: BlogComp,
-  // },
+  {
+    path: "/blog",
+    name: "BlogComp",
+    meta: dataMeta,
+    component: BlogComp,
+  },
   // {
   //   path: "/detail-blog",
   //   name: "DetailBlog",

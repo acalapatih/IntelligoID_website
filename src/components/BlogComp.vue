@@ -47,8 +47,7 @@
       <div class="leftHeader col-lg-5">
         <h1>Blog Intelligo.Id</h1>
         <h2>
-          Hallo teman-teman! Berikut showcase/portofolio dari beberapa
-          teman-teman kita yang sudah bergabung bersama kami. <br />
+          Hallo teman-teman! Berikut adalah konten blog kami yang berisi berbagai info menarik tentang dunia teknologi. <br />
           Yuk lihat !!!
         </h2>
       </div>

@@ -23,21 +23,17 @@
           <router-link class="nav-item link p-1" to="/showcase"
             >Showcase</router-link
           >
-          <a
-            class="nav-item link p-1"
-            target="_blank"
-            href="https://blog.intelligo.id/"
+          <router-link class="nav-item link p-1" to="/blog"
+            >Blog</router-link
           >
-            Blog
-          </a>
           <router-link class="nav-item link p-1" to="/about"
             >About Us</router-link
           >
         </div>
         <div class="navbar-nav d-flex gap-2 align-items-center">
           <div v-if="status !== true">
-            <button class="btn-login" @click="login">Login</button>
-            <button class="btn-register" @click="register">Register</button>
+            <button class="btn-login">Login</button>
+            <button class="btn-register">Register</button>
           </div>
           <div class="dropdown" v-else>
             <button
