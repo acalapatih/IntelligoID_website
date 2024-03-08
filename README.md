@@ -20,7 +20,7 @@
     <a href="https://github.com/acalapatih/IntelligoID_website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pelayanan.ti-uinjkt.id/login">View Demo</a>
+    <a href="https://intelligoid-project.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/acalapatih/IntelligoID_website/issues">Report Bug</a>
     ·
